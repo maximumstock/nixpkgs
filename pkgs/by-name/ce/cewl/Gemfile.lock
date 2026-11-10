@@ -11,14 +11,14 @@ GEM
       ostruct (>= 0.6.0)
       pstore (>= 0.1.3)
     mini_portile2 (2.8.9)
-    nokogiri (1.18.10)
+    nokogiri (1.19.4)
       mini_portile2 (~> 2.8.2)
       racc (~> 1.4)
     ostruct (0.6.3)
     pstore (0.2.0)
     racc (1.8.1)
     rexml (3.4.4)
-    rubyzip (3.2.2)
+    rubyzip (3.4.0)
     spider (0.7.0)
 
 PLATFORMS
