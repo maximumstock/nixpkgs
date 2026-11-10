@@ -3,13 +3,12 @@ GEM
   specs:
     kramdown (2.4.0)
       rexml
-    kramdown-asciidoc (2.1.0)
+    kramdown-asciidoc (2.1.1)
       kramdown (~> 2.4.0)
       kramdown-parser-gfm (~> 1.1.0)
-      rexml (~> 3.2.0)
     kramdown-parser-gfm (1.1.0)
       kramdown (~> 2.0)
-    rexml (3.2.6)
+    rexml (3.4.2)
 
 PLATFORMS
   ruby
